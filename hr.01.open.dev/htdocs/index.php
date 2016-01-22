@@ -102,7 +102,7 @@
 
     <footer class="footer">
       <div class="container">
-        <p class="text-muted">&copy; Copyright 2016 - Eighth Layer Co., Ltd.</p>
+        <p class="text-muted">Copyright &copy; 2016 - 8th Layer Co., Ltd.</p>
       </div>
     </footer>
 
